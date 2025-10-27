@@ -1,4 +1,4 @@
-# 🥵😈 COLAB A LO MALDITO 🥵😈
+# COLAB A LO MALDITO 🥵😈
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
