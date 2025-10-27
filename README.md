@@ -6,9 +6,12 @@
 
 ### 🚀 Ejecuta los notebooks interactivamente:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JR7juanito/COLAB-A-LO-MALDITO-/blob/main/COLAB_A_LO_MALDITO.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JR7juanito/COLAB-A-LO-MALDITO-/main)
+**Opción rápida - Todo el repositorio:**
+
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/JR7juanito/COLAB-A-LO-MALDITO-?quickstart=1)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JR7juanito/COLAB-A-LO-MALDITO-/main)
+
+---
 
 ## 🔥 Descripción
 
@@ -24,6 +27,12 @@ Notebook épico para análisis de datos y machine learning con:
 - 💾 Exportación de resultados
 - 📱 Compatible con iOS/iPadOS (Carnets)
 
+**Abrir en:**
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JR7juanito/COLAB-A-LO-MALDITO-/blob/main/COLAB_A_LO_MALDITO.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JR7juanito/COLAB-A-LO-MALDITO-/main?filepath=COLAB_A_LO_MALDITO.ipynb)
+
+---
+
 ### 2. 📅 calendario_interactivo.ipynb
 Sistema completo de gestión de calendario con:
 - ✅ Crear eventos
@@ -33,6 +42,12 @@ Sistema completo de gestión de calendario con:
 - 🔍 Búsqueda por fecha
 - 💾 Persistencia en JSON
 
+**Abrir en:**
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JR7juanito/COLAB-A-LO-MALDITO-/blob/main/calendario_interactivo.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JR7juanito/COLAB-A-LO-MALDITO-/main?filepath=calendario_interactivo.ipynb)
+
+---
+
 ### 3. 🌌 Timeline_Universo.ipynb
 Línea de tiempo interactiva de toda la historia del universo:
 - 🕐 Desde el Big Bang hasta el futuro lejano
@@ -41,6 +56,10 @@ Línea de tiempo interactiva de toda la historia del universo:
 - 🔍 Explorador de eventos detallado
 - 🌟 70+ eventos cosmológicos, geológicos y biológicos
 - 📱 Funciona perfecto en Colab y Carnets
+
+**Abrir en:**
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JR7juanito/COLAB-A-LO-MALDITO-/blob/main/Timeline_Universo.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JR7juanito/COLAB-A-LO-MALDITO-/main?filepath=Timeline_Universo.ipynb)
 
 ## 🚀 Instalación
 
