@@ -30,7 +30,7 @@ Sistema completo de gestión de calendario con:
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/TU_USUARIO/COLAB-A-LO-MALDITO.git
+git clone https://github.com/JR7juanito/COLAB-A-LO-MALDITO.git
 cd COLAB-A-LO-MALDITO
 
 # Instalar dependencias
@@ -81,8 +81,8 @@ Este proyecto está bajo la Licencia MIT.
 
 ## 👤 Autor
 
-**Tu Nombre**
-- GitHub: [@TU_USUARIO](https://github.com/TU_USUARIO)
+**Juan Ignacio Reyes (JR7juanito)**
+- GitHub: [@JR7juanito](https://github.com/JR7juanito)
 
 ---
 
