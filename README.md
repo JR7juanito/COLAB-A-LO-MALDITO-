@@ -22,6 +22,7 @@ Notebook épico para análisis de datos y machine learning con:
 - 🤖 Modelos de Machine Learning (Random Forest)
 - 📈 Análisis estadístico completo
 - 💾 Exportación de resultados
+- 📱 Compatible con iOS/iPadOS (Carnets)
 
 ### 2. 📅 calendario_interactivo.ipynb
 Sistema completo de gestión de calendario con:
@@ -31,6 +32,15 @@ Sistema completo de gestión de calendario con:
 - 📊 Visualización mensual
 - 🔍 Búsqueda por fecha
 - 💾 Persistencia en JSON
+
+### 3. 🌌 Timeline_Universo.ipynb
+Línea de tiempo interactiva de toda la historia del universo:
+- 🕐 Desde el Big Bang hasta el futuro lejano
+- 📊 Visualización logarítmica y lineal
+- 🎛️ Widgets interactivos para filtrar eventos
+- 🔍 Explorador de eventos detallado
+- 🌟 70+ eventos cosmológicos, geológicos y biológicos
+- 📱 Funciona perfecto en Colab y Carnets
 
 ## 🚀 Instalación
 
