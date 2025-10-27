@@ -4,6 +4,12 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+### 🚀 Ejecuta los notebooks interactivamente:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JR7juanito/COLAB-A-LO-MALDITO-/blob/main/COLAB_A_LO_MALDITO.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JR7juanito/COLAB-A-LO-MALDITO-/main)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/JR7juanito/COLAB-A-LO-MALDITO-?quickstart=1)
+
 ## 🔥 Descripción
 
 Repositorio con notebooks interactivos super poderosos para análisis de datos, machine learning y gestión de calendarios.
