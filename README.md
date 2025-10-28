@@ -61,6 +61,60 @@ Línea de tiempo interactiva de toda la historia del universo:
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JR7juanito/COLAB-A-LO-MALDITO-/blob/main/Timeline_Universo.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JR7juanito/COLAB-A-LO-MALDITO-/main?filepath=Timeline_Universo.ipynb)
 
+---
+
+## 🧪 Notebooks de Prueba (Test de Binder en iOS/iPadOS)
+
+Notebooks diseñados específicamente para evaluar las capacidades y limitaciones de Binder en dispositivos móviles.
+
+### 🎛️ test_widgets_avanzados.ipynb
+Prueba exhaustiva de todos los widgets interactivos de ipywidgets:
+- Sliders, dropdowns, botones, checkboxes
+- Color y date pickers
+- Tabs y accordions
+- Gráficos interactivos con matplotlib
+
+**Probar en Binder:**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JR7juanito/COLAB-A-LO-MALDITO-/main?filepath=test_widgets_avanzados.ipynb)
+
+---
+
+### 📊 test_visualizaciones.ipynb
+Evalúa diferentes librerías de visualización:
+- Matplotlib y Seaborn (estáticos)
+- Plotly y Plotly Express (interactivos)
+- Bokeh (interactivo)
+- Altair (declarativo)
+
+**Probar en Binder:**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JR7juanito/COLAB-A-LO-MALDITO-/main?filepath=test_visualizaciones.ipynb)
+
+---
+
+### 🚀 test_rendimiento.ipynb
+Mide límites de recursos y capacidad de procesamiento:
+- Arrays y DataFrames grandes
+- Machine Learning con sklearn
+- Operaciones matemáticas intensivas
+- I/O de archivos (CSV, Parquet)
+- Procesamiento paralelo
+
+**Probar en Binder:**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JR7juanito/COLAB-A-LO-MALDITO-/main?filepath=test_rendimiento.ipynb)
+
+---
+
+### 📱 test_experiencia_tactil.ipynb
+Evalúa la usabilidad en dispositivos táctiles:
+- Tamaño de botones y widgets
+- Respuesta al tacto
+- Teclado en pantalla
+- Gestos (zoom, scroll, pinch)
+- Cuestionario de usabilidad
+
+**Probar en Binder:**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JR7juanito/COLAB-A-LO-MALDITO-/main?filepath=test_experiencia_tactil.ipynb)
+
 ## 🚀 Instalación
 
 ```bash
